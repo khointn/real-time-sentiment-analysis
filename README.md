@@ -17,10 +17,13 @@ transfer_model.h5: transfer model
 
 ### Result
 Simple CNN model: I got 0.6095 accuracy (test set). Of course, not a very good performance even though I tried to make it better.
-<img width="490" alt="image" src="https://user-images.githubusercontent.com/53163183/166243266-ffae376f-fa9c-40af-9c4f-5cf449095b6e.png">
+
+<img width="250" alt="image" src="https://user-images.githubusercontent.com/53163183/166243266-ffae376f-fa9c-40af-9c4f-5cf449095b6e.png">
 
 Transfer learning (ResNet50): 0.5678 accuracy (test set) :)
-<img width="494" alt="image" src="https://user-images.githubusercontent.com/53163183/166243200-bf8d02a4-871c-4a4d-aad7-bafc0ad34d0d.png">
+
+<img width="250" alt="image" src="https://user-images.githubusercontent.com/53163183/166243200-bf8d02a4-871c-4a4d-aad7-bafc0ad34d0d.png">
+
 When testing on camera it somewhat works (of course not with exceptional performance).
 
 ### Lesson Learned

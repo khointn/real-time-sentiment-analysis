@@ -13,7 +13,6 @@ FER2013 is a well-studied dataset and has been used in ICML competitions and sev
 train.ipynb: all implementation for preprocessing and training
 camera_realtime1.py : implementation for real-time camera and cropping image.
 cnn_model.h5: model from simple CNN
-transfer_best_weight.h5: transfer model
 
 ### Result
 Simple CNN model: I got 0.6095 accuracy (test set). Of course, not a very good performance even though I tried to make it better.
